@@ -1,0 +1,5 @@
+title: "Student Portfolio — Computer Science @ ATC"
+description: "A living resume of projects, tickets, diagrams, and reflections from the ATC student-run IT department."
+theme: minima
+markdown: kramdown
+permalink: pretty
